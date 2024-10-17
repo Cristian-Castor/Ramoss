@@ -1,0 +1,133 @@
+.navbar ul{
+    list-style-type: none;
+    padding-left: 10px;
+    padding-bottom:50px;
+    margin: 10px;
+    font-size: 20px;
+    margin:0 auto;
+    }
+    .navbar a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    font-weight:bold;
+    font-family:helvetica;
+    margin-left: 75px;
+    padding-inline:15px;
+    transition: 0.4ease-in-out;   
+    }
+.navbar a:hover{
+    color:blue;
+    }
+.navbar li{
+    float: left;
+    margin-top:10px;
+    }
+.logo{
+    background-color: grey;
+    padding-bottom: 400px;
+    margin:0 auto;
+    padding-left:500px;
+    
+   }
+
+
+div img{
+    position: absolute;
+    
+}
+div h1{
+    margin: 0 0 0 100px;
+    text-align: center;
+    margin-left: 10px;
+    color:;
+  }
+    
+
+ 
+  
+.ml{
+    margin-left: 200px;
+}
+.ball{
+    postion: absolute;
+}
+.movie{
+    margin-left: 650px;
+    margin-top: 50px;
+    
+}
+.text{
+    font-size:40px;
+    margin-top:0;
+    margin-left: 100px;
+    
+}
+.t{
+    border-radius: 100%;
+    margin-left: 550px;
+    
+ 
+ 
+}
+.content{
+
+font-size:20px;
+margin-bottom:0;
+    
+}
+.arv{
+    margin-right:px;
+    margin-top:20px;
+    text-align: center;  
+    color: white;
+}
+    
+.pic1{
+
+    margin-left:380px;
+    margin-top:50px;
+}
+.pic2{
+    margin-left:100px;
+    margin-top: 40px;
+    
+}
+.pic3{
+    margin-left:650px;
+    margin-top: 40px;
+}
+
+.pic4{
+    
+    margin-top:60px;  
+}
+.pic5{
+    margin-left:70px;
+    margin-top:50px;  
+        
+}
+.pic6{
+    margin-left:70px;
+    margin-top:50px;  
+}
+.pic7{
+    margin-left:70px;
+    margin-top:50px;     
+}
+
+
+.fb{
+    margin-left:120px;
+    margin-top:30px;  
+    border-radius: 100%;
+}
+.ig{
+    margin-left:70px;
+    margin-top:30px;  
+    border-radius: 100%;  
+}
+.a{
+    color:white;
+}
+
